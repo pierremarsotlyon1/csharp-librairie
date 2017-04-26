@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../R/R.csproj",
+      "bin": {
+        "assembly": "../../R/obj/{configuration}/R.dll",
+        "pdb": "../../R/obj/{configuration}/R.pdb"
+      },
+      "dependencies": {
+        "Autofac": "3.5.2",
+        "BouncyCastle": "1.7.0",
+        "EntityFramework": "6.1.3",
+        "EntityFramework.fr": "6.1.3",
+        "Google.Apis": "1.10.0",
+        "Google.Apis.Auth": "1.10.0",
+        "Google.Apis.Core": "1.10.0",
+        "Google.Apis.Gmail.v1": "1.10.0.360",
+        "HtmlAgilityPack": "1.4.9",
+        "log4net": "2.0.5",
+        "Microsoft.Bcl": "1.1.10",
+        "Microsoft.Bcl.Async": "1.0.168",
+        "Microsoft.Bcl.Build": "1.0.21",
+        "Microsoft.Net.Http": "2.2.29",
+        "Newtonsoft.Json": "8.0.2",
+        "Zlib.Portable": "1.11.0",
+        "Zlib.Portable.Signed": "1.11.0",
+        "BouncyCastle.Crypto": "1.0.0-*",
+        "EntityFramework.SqlServer": "1.0.0-*",
+        "Google.Apis.Auth.Mvc4": "1.0.0-*",
+        "Google.Apis.Auth.PlatformServices": "1.0.0-*",
+        "Google.Apis.PlatformServices": "1.0.0-*",
+        "Google.Apis.Translate.v2": "1.0.0-*",
+        "GoogleTranslateAPI": "1.0.0-*",
+        "itextsharp": "1.0.0-*",
+        "MySql.Data": "1.0.0-*",
+        "MySql.Data.Entity.EF5": "1.0.0-*",
+        "MySql.Data.Entity.EF6": "1.0.0-*",
+        "System.Net.Http.Extensions": "1.0.0-*",
+        "System.Net.Http.Primitives": "1.0.0-*",
+        "System.Web.Mvc": "1.0.0-*",
+        "Tweetinvi.Controllers": "1.0.0-*",
+        "Tweetinvi.Core": "1.0.0-*",
+        "Tweetinvi.Credentials": "1.0.0-*",
+        "Tweetinvi": "1.0.0-*",
+        "Tweetinvi.Factories": "1.0.0-*",
+        "Tweetinvi.Logic": "1.0.0-*",
+        "Tweetinvi.Security": "1.0.0-*",
+        "Tweetinvi.Streams": "1.0.0-*",
+        "Tweetinvi.WebLogic": "1.0.0-*"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R", "R\R.csproj", "{2DA777B3-CFE1-479C-8EA5-CA6854E4D0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestR", "..\TestR\TestR.csproj", "{0076DD49-80A7-478A-9F7A-AC2017555176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA777B3-CFE1-479C-8EA5-CA6854E4D0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA777B3-CFE1-479C-8EA5-CA6854E4D0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA777B3-CFE1-479C-8EA5-CA6854E4D0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA777B3-CFE1-479C-8EA5-CA6854E4D0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0076DD49-80A7-478A-9F7A-AC2017555176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0076DD49-80A7-478A-9F7A-AC2017555176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0076DD49-80A7-478A-9F7A-AC2017555176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0076DD49-80A7-478A-9F7A-AC2017555176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

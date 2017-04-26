@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../../ProjetStartUp/packages/Google.Apis.Auth.1.10.0/lib/net40/Google.Apis.Auth.PlatformServices.dll",
+        "pdb": "../../../ProjetStartUp/packages/Google.Apis.Auth.1.10.0/lib/net40/Google.Apis.Auth.PlatformServices.pdb"
+      },
+      "dependencies": {
+        "Google.Apis.Auth": "1.0.0-*"
+      }
+    }
+  }
+}

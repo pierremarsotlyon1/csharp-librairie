@@ -1,0 +1,467 @@
+C:\Users\pierre\Dropbox\R\R\bin\Release\R.dll
+C:\Users\pierre\Dropbox\R\R\bin\Release\R.pdb
+C:\Users\pierre\Dropbox\R\R\bin\Release\MySql.Data.dll
+C:\Users\pierre\Dropbox\R\R\obj\Release\R.dll
+C:\Users\pierre\Dropbox\R\R\obj\Release\R.pdb
+C:\Users\pierre\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+C:\Users\pierre\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+D:\Dropbox\R\R\bin\Release\R.dll
+D:\Dropbox\R\R\bin\Release\R.pdb
+D:\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+D:\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+D:\Dropbox\R\R\obj\Release\R.dll
+D:\Dropbox\R\R\obj\Release\R.pdb
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+D:\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+D:\Dropbox\R\R\bin\Release\System.Web.Mvc.dll
+D:\Dropbox\R\R\bin\Release\MySql.Data.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\R.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\R.pdb
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+Z:\Documents\dropbox\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+Z:\Documents\dropbox\Dropbox\R\R\obj\Release\R.dll
+Z:\Documents\dropbox\Dropbox\R\R\obj\Release\R.pdb
+D:\Dropbox\R\R\bin\Release\itextsharp.dll
+Z:\Documents\dropbox\Dropbox\R\R\bin\Release\itextsharp.dll
+D:\Dropbox\R\R\bin\Release\System.Web.Mvc.xml
+D:\Dropbox\R\R\bin\Release\fr\System.Web.Mvc.resources.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\R.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\R.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\itextsharp.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\obj\Release\R.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\obj\Release\R.pdb
+D:\Dropbox\R\R\bin\Release\R.dll.config
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+D:\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+D:\Dropbox\R\R\bin\Release\log4net.dll
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+D:\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+D:\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+D:\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+D:\Dropbox\R\R\bin\Release\Google.Apis.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.xml
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+D:\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+D:\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+D:\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+D:\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+D:\Dropbox\R\R\bin\Release\log4net.xml
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+D:\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+D:\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+D:\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+D:\Dropbox\R\R\obj\Release\R.csproj.App.config
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\R.dll.config
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\log4net.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\log4net.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\obj\Release\R.csproj.App.config
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\MySql.Data.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\R.dll.config
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\R.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\R.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\itextsharp.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\log4net.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\log4net.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+C:\Users\marsot pierre\Dropbox\R\R\obj\Release\R.csproj.App.config
+C:\Users\marsot pierre\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+C:\Users\marsot pierre\Dropbox\R\R\obj\Release\R.dll
+C:\Users\marsot pierre\Dropbox\R\R\obj\Release\R.pdb
+C:\Users\marsot pierre\Dropbox\R\R\bin\Release\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Documents\dropbox\Dropbox\R\R\bin\Release\System.Web.Mvc.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\R.dll.config
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\R.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\R.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\itextsharp.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\log4net.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\MySql.Data.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\log4net.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\root\Documents\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+C:\Users\root\Documents\Dropbox\R\R\obj\Release\R.csproj.App.config
+C:\Users\root\Documents\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Dropbox\R\R\obj\Release\R.dll
+C:\Users\root\Documents\Dropbox\R\R\obj\Release\R.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\R.dll.config
+C:\Users\root\Dropbox\R\R\bin\Release\R.dll
+C:\Users\root\Dropbox\R\R\bin\Release\R.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\root\Dropbox\R\R\bin\Release\EntityFramework.dll
+C:\Users\root\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+C:\Users\root\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+C:\Users\root\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+C:\Users\root\Dropbox\R\R\bin\Release\itextsharp.dll
+C:\Users\root\Dropbox\R\R\bin\Release\log4net.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\root\Dropbox\R\R\bin\Release\MySql.Data.dll
+C:\Users\root\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF5.dll
+C:\Users\root\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Web.Mvc.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Web.Razor.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Web.WebPages.dll
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\root\Dropbox\R\R\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\root\Dropbox\R\R\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\EntityFramework.xml
+C:\Users\root\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\root\Dropbox\R\R\bin\Release\HtmlAgilityPack.pdb
+C:\Users\root\Dropbox\R\R\bin\Release\HtmlAgilityPack.xml
+C:\Users\root\Dropbox\R\R\bin\Release\log4net.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+C:\Users\root\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\root\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\root\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+C:\Users\root\Dropbox\R\R\bin\Release\fr\EntityFramework.resources.dll
+C:\Users\root\Dropbox\R\R\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\root\Dropbox\R\R\obj\Release\R.csproj.App.config
+C:\Users\root\Dropbox\R\R\obj\Release\R.dll
+C:\Users\root\Dropbox\R\R\obj\Release\R.pdb
+C:\Users\root\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+E:\Documents\Dropbox\R\R\bin\Release\R.dll.config
+E:\Documents\Dropbox\R\R\bin\Release\R.dll
+E:\Documents\Dropbox\R\R\bin\Release\R.pdb
+E:\Documents\Dropbox\R\R\bin\Release\BouncyCastle.Crypto.dll
+E:\Documents\Dropbox\R\R\bin\Release\EntityFramework.dll
+E:\Documents\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+E:\Documents\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+E:\Documents\Dropbox\R\R\bin\Release\HtmlAgilityPack.dll
+E:\Documents\Dropbox\R\R\bin\Release\itextsharp.dll
+E:\Documents\Dropbox\R\R\bin\Release\log4net.dll
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+E:\Documents\Dropbox\R\R\bin\Release\MySql.Data.dll
+E:\Documents\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF5.dll
+E:\Documents\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF6.dll
+E:\Documents\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+E:\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+E:\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+E:\Documents\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+E:\Documents\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\Documents\Dropbox\R\R\bin\Release\EntityFramework.xml
+E:\Documents\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+E:\Documents\Dropbox\R\R\bin\Release\HtmlAgilityPack.pdb
+E:\Documents\Dropbox\R\R\bin\Release\HtmlAgilityPack.xml
+E:\Documents\Dropbox\R\R\bin\Release\log4net.xml
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+E:\Documents\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Documents\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+E:\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+E:\Documents\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+E:\Documents\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+E:\Documents\Dropbox\R\R\bin\Release\fr\EntityFramework.resources.dll
+E:\Documents\Dropbox\R\R\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+E:\Documents\Dropbox\R\R\obj\Release\R.csproj.App.config
+E:\Documents\Dropbox\R\R\obj\Release\R.csprojResolveAssemblyReference.cache
+E:\Documents\Dropbox\R\R\obj\Release\R.dll
+E:\Documents\Dropbox\R\R\obj\Release\R.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\R.dll.config
+C:\Users\Pierre\Dropbox\R\R\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\EntityFramework.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.Mvc4.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Translate.v2.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\GoogleTranslateAPI.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\itextsharp.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\log4net.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF5.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Newtonsoft.Json.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Core.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Security.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Zlib.Portable.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\EntityFramework.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Core.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.Gmail.v1.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\HtmlAgilityPack.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\log4net.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Newtonsoft.Json.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Zlib.Portable.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\fr\EntityFramework.resources.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Pierre\Dropbox\R\R\obj\Release\R.csproj.App.config
+E:\Documents\Dropbox\R\R\bin\Release\System.Web.Mvc.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Web.Mvc.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\ImageResizer.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\System.Web.Mvc.dll
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Pierre\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.xml
+C:\Users\Pierre\Dropbox\R\R\bin\Release\ImageResizer.xml
+E:\Documents\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.dll
+E:\Documents\Dropbox\R\R\bin\Release\ImageResizer.dll
+E:\Documents\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.pdb
+E:\Documents\Dropbox\R\R\bin\Release\Gma.QrCodeNet.Encoding.xml
+E:\Documents\Dropbox\R\R\bin\Release\ImageResizer.xml

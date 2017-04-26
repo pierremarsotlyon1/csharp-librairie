@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Tweetinvi.Factories.dll"
+      },
+      "dependencies": {
+        "Newtonsoft.Json": "1.0.0-*",
+        "Tweetinvi.Core": "1.0.0-*",
+        "Tweetinvi.Logic": "1.0.0-*"
+      }
+    }
+  }
+}

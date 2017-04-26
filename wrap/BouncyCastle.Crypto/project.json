@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../../ProjetStartUp/packages/BouncyCastle.1.7.0/lib/Net40-Client/BouncyCastle.Crypto.dll",
+        "pdb": "../../../ProjetStartUp/packages/BouncyCastle.1.7.0/lib/Net40-Client/BouncyCastle.Crypto.pdb"
+      }
+    }
+  }
+}

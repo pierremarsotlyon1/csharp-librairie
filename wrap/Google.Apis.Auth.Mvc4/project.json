@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Google.Apis.Auth.Mvc4.dll"
+      },
+      "dependencies": {
+        "Google.Apis.Auth": "1.0.0-*",
+        "Google.Apis.Core": "1.0.0-*",
+        "Microsoft.Threading.Tasks": "1.0.0-*",
+        "System.Web.Mvc": "1.0.0-*"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Tweetinvi.Streams.dll"
+      },
+      "dependencies": {
+        "Microsoft.Threading.Tasks": "1.0.0-*",
+        "Microsoft.Threading.Tasks.Extensions": "1.0.0-*",
+        "Newtonsoft.Json": "1.0.0-*",
+        "Tweetinvi.Core": "1.0.0-*"
+      }
+    }
+  }
+}

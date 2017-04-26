@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Tweetinvi.dll"
+      },
+      "dependencies": {
+        "Autofac": "1.0.0-*",
+        "Microsoft.Threading.Tasks": "1.0.0-*",
+        "Newtonsoft.Json": "1.0.0-*",
+        "Tweetinvi.Controllers": "1.0.0-*",
+        "Tweetinvi.Core": "1.0.0-*",
+        "Tweetinvi.Credentials": "1.0.0-*",
+        "Tweetinvi.Factories": "1.0.0-*",
+        "Tweetinvi.Logic": "1.0.0-*",
+        "Tweetinvi.Streams": "1.0.0-*",
+        "Tweetinvi.WebLogic": "1.0.0-*"
+      }
+    }
+  }
+}

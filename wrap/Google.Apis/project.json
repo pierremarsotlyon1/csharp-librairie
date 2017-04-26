@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Google.Apis.dll",
+        "pdb": "../../R/bin/Debug/Google.Apis.pdb"
+      },
+      "dependencies": {
+        "Google.Apis.Core": "1.0.0-*",
+        "Microsoft.Threading.Tasks": "1.0.0-*",
+        "Newtonsoft.Json": "1.0.0-*",
+        "Zlib.Portable": "1.0.0-*"
+      }
+    }
+  }
+}

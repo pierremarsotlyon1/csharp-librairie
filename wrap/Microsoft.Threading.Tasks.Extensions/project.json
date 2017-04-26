@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../R/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll"
+      },
+      "dependencies": {
+        "Microsoft.Threading.Tasks": "1.0.0-*"
+      }
+    }
+  }
+}

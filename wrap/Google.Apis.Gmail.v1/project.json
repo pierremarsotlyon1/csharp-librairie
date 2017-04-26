@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../../ProjetStartUp/packages/Google.Apis.Gmail.v1.1.10.0.360/lib/portable-net40+sl50+win+wpa81+wp80/Google.Apis.Gmail.v1.dll",
+        "pdb": "../../../ProjetStartUp/packages/Google.Apis.Gmail.v1.1.10.0.360/lib/portable-net40+sl50+win+wpa81+wp80/Google.Apis.Gmail.v1.pdb"
+      }
+    }
+  }
+}

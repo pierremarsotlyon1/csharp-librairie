@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../../ProjetStartUp/packages/Google.Apis.1.10.0/lib/net40/Google.Apis.PlatformServices.dll",
+        "pdb": "../../../ProjetStartUp/packages/Google.Apis.1.10.0/lib/net40/Google.Apis.PlatformServices.pdb"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "../../../Rihanna/RIhannaConsole/packages/Microsoft.Net.Http.2.2.29/lib/net45/System.Net.Http.Extensions.dll"
+      }
+    }
+  }
+}

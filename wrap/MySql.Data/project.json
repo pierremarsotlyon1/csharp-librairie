@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "bin": {
+        "assembly": "C:\\Program Files (x86)\\MySQL\\Connector.NET 6.9\\Assemblies\\v4.5\\MySql.Data.dll"
+      }
+    }
+  }
+}
